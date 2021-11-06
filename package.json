@@ -1,0 +1,27 @@
+{
+  "name": "09-homework-readme-generator",
+  "version": "1.0.0",
+  "description": "A README generator for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tallen1985/09-Homework-README-Generator.git"
+  },
+  "keywords": [
+    "README",
+    "NodeJS",
+    "Javascript"
+  ],
+  "author": "Troy Allen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tallen1985/09-Homework-README-Generator/issues"
+  },
+  "homepage": "https://github.com/tallen1985/09-Homework-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
