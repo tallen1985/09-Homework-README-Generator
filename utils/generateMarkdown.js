@@ -22,15 +22,15 @@ function renderLicenseLink(license) {
   } else if (license == 'GPL') {
     licenseLink = 'https://opensource.org/licenses/GPL-3.0'
   }
-  return `License Documentation] documentation](${licenseLink})`
+  return `[License Documentation](${licenseLink})`
 }
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license && license != 'None') {
-      return `This project is protected under ${license} License.
-      ${renderLicenseLink(license)}`
+      return `This project is protected under ${license} License.\n
+${renderLicenseLink(license)}`
   } else {
       return '';
   }

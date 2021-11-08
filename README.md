@@ -1,9 +1,9 @@
-<img src="https://img.shields.io/badge/License-MIT-green" alt="license Badge" />
+<img src="https://img.shields.io/badge/License-BSD-green" alt="license Badge" />
   
   
-  # Title of this project
+  # Title of Project
   ## Description
-  short description
+  Description
   
   ## Table of Contents
   - [Installation](#installation)
@@ -17,10 +17,11 @@
   node index.js
       
   ## Contributing
-  whatevskis
+  with Permission
   ## License
-  This project is protected under MIT License.
-      License Documentation] documentation](https://opensource.org/licenses/MIT)
+  This project is protected under BSD License.
+
+[License Documentation](https://opensource.org/licenses/BSD-3-Clause)
   ## Questions
   [Ask me on my github profile](http://www.github.com/tallen1985)
   
