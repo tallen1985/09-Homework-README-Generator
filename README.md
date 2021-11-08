@@ -1,9 +1,9 @@
-<img src="https://img.shields.io/badge/License-BSD-green" alt="license Badge" />
+<img src="https://img.shields.io/badge/License-MIT-green" alt="license Badge" />
   
   
-  # a;lsdkfja
+  # Title of this project
   ## Description
-  a
+  short description
   
   ## Table of Contents
   - [Installation](#installation)
@@ -12,16 +12,17 @@
   - [License](#license)
   - [Questions](#questions)
   ## Installation
-  sdf
+  npm i
   ## Usage
-  f
+  node index.js
       
   ## Contributing
-  d
+  whatevskis
   ## License
-  
+  This project is protected under MIT License.
+      License Documentation] documentation](https://opensource.org/licenses/MIT)
   ## Questions
-  [Ask me on my github profile](http://www.github.com/d)
+  [Ask me on my github profile](http://www.github.com/tallen1985)
   
-  Any additional questions, reach me at my email s
+  Any additional questions, reach me at my email jake.allen@me.com
   

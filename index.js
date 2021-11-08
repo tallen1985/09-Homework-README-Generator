@@ -44,7 +44,7 @@ const questions = [
       name: 'license',
       type: 'list',
       message: 'Please select a license for this README:',
-      choices: ['BSD', 'MIT', 'GPL']
+      choices: ['BSD', 'MIT', 'GPL', 'None']
     },
     {
       name: 'githubUserName',
