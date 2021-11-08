@@ -1,6 +1,5 @@
 <img src="https://img.shields.io/badge/License-BSD-green" alt="license Badge" />
   
-  
   # Title of Project
   ## Description
   Description
@@ -15,15 +14,27 @@
   npm i
   ## Usage
   node index.js
-      
-  ## Contributing
-  with Permission
-  ## License
-  This project is protected under BSD License.
+=======
 
-[License Documentation](https://opensource.org/licenses/BSD-3-Clause)
-  ## Questions
-  [Ask me on my github profile](http://www.github.com/tallen1985)
-  
-  Any additional questions, reach me at my email jake.allen@me.com
-  
+# Dandy Warhols
+## Description
+A kick ass band
+
+## Table of Contents (Optional)
+If your README is long, add a table of contents to make it easy for users to find what they need.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Questions](#questions)
+## Installation
+Listen to it
+## Usage
+On Itunes
+    
+## Contributing
+Just vibe man...
+## License
+Copyright 2021 Troy Allen
+
+      Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
