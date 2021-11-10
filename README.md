@@ -1,9 +1,9 @@
 <img src="https://img.shields.io/badge/License-MIT-green" alt="license Badge" />
   
   
-  # good README Generator
+  # README Generator
   ## Description
-  use NODE.js to easily create a README file based on user input
+  NodeJS project to create README files based on user input
   
   ## Table of Contents
   - [Installation](#installation)
@@ -17,13 +17,18 @@
   node index.js
       
   ## Contributing
-  With Permission
+  with permission
+  
+  [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
   ## License
   This project is protected under MIT License.
 
 [License Documentation](https://opensource.org/licenses/MIT)
   ## Questions
-  [Ask me on my github profile](http://www.github.com/tallen1985)
+  [Refer to Github Profile: tallen1985](http://www.github.com/tallen1985)
   
   Any additional questions, reach me at my email jake.allen@me.com
+
+  ## Link to Video
+  [Link to Video Demonstration](./09-Homework-video.mp4)
   

@@ -59,10 +59,12 @@ function generateMarkdown(answers) {
       
   ## Contributing
   ${contribution}
+  
+  [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
   ## License
   ${renderLicenseSection(license, name, title, description)}
   ## Questions
-  [Ask me on my github profile](http://www.github.com/${githubUserName})
+  [Refer to Github Profile: ${githubUserName}](http://www.github.com/${githubUserName})
   
   Any additional questions, reach me at my email ${email}
   `;
