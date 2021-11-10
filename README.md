@@ -31,4 +31,7 @@
 
   ## Link to Video
   [Link to Video Demonstration](https://drive.google.com/file/d/193HhBhpt9wfd1zkMJdvom33mQA6KZCjt/view?usp=sharing)
+
+  ## ScreenShot
+  ![README Generator Screenshot](./screenshot.jpg)
   
