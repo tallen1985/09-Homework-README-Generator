@@ -23,12 +23,12 @@ const questions = [
     {
       name: 'installInstructions',
       type: 'input',
-      message: 'Installation instructions?'
+      message: 'Installation instructions? (npm i)'
     },
     {
       name: 'usage',
       type: 'input',
-      message: 'Usage information?'
+      message: 'Usage information? (node index.js)'
     },
     {
       name: 'contribution',
